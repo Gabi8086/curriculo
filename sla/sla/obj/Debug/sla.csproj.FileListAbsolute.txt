@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\sla\sla\bin\Debug\sla.exe.config
+C:\Users\Tecnico\source\repos\sla\sla\bin\Debug\sla.exe
+C:\Users\Tecnico\source\repos\sla\sla\bin\Debug\sla.pdb
+C:\Users\Tecnico\source\repos\sla\sla\obj\Debug\sla.csprojAssemblyReference.cache
+C:\Users\Tecnico\source\repos\sla\sla\obj\Debug\sla.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\sla\sla\obj\Debug\sla.exe
+C:\Users\Tecnico\source\repos\sla\sla\obj\Debug\sla.pdb
